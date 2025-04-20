@@ -17,3 +17,5 @@ How to achieve a target:
 --> spend 2 hrs daily at the bare minmum to complete those blocks.
 --> every week end revise or revisit that weeks work (blocks).
 --> follow these steps to the end to achieve any goal in life I Guarantee the sucessfull completeion of the tasks/target.
+
+
