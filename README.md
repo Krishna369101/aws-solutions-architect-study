@@ -2,6 +2,19 @@
 
 so this is my journey of becoming Aws Solutions architect
 I followed all the steps mentioned in these docs to complete this exam sucessfully AWS SAA-C03
+_________________________________________________________________________________________________________
+AWS SAA-C03
+This is a concept based AWs certification.
+about aws core services.
+light knowledge on implementing
+larger focus on theoretical limits and functionality
+light focus on high level architecture and cloud work loads and choosing appropriate service to meet business use case.
+
+for cloud engineer
+how to architect multiple services
+consider this as a starting point.
+ my road map:
+ aws-Solutions Architect --> aws-SysopsAdministrator --> aws-DevOps Engineer --> aws-Security
 
 Steps:
 
